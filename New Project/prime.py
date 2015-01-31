@@ -1,4 +1,3 @@
-
 def inputNumber(number):
     i = 2;
     for i in xrange(2, number/2):

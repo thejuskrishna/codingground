@@ -30,8 +30,8 @@ def check():
                 if a*b > temp:
                     temp = a*b
                 
-            else:
-                print "no-" + str(a) + " x " + str(b) + " = " + str(a*b)
+            
+                
             b = b - 1
         a = a - 1
     return temp
